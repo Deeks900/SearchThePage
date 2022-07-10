@@ -1,0 +1,9 @@
+Primeng:
+CSS node modules has to be imported in angular.json
+css has to be imported in styles.css
+
+Angular Material
+Some modules should be there in angular.json
+css has to be imported in styles.css
+
+Blue color can be used using a var variable
